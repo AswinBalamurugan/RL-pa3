@@ -1,0 +1,678 @@
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.0353738292490922
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.324366897950243
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.493374415711115
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.296385817918269
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.242756003268692
+INFO:root:Best model saved to models/smdp_run_best.pkl
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.5727203421896063
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.669045044144748
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.5329150022501337
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.2986960094748328
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.0565954778705202
+INFO:root:Best model saved to models/smdp_run_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -0.6934487927054707
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -0.7972144070483443
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.024425434108248
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.0374476626270392
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.6679336298302638
+INFO:root:Best model saved to models/intraoptions_run_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.2299571545318586
+INFO:root:Starting run 2/5
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.3262703514859826
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.2509838801437079
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.1739422233952812
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -0.9304998732094516
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.8125512253023213
+INFO:root:Best model saved to models/smdp_run_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.0653667612270261
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.008070157239733
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -0.8611755039327952
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -0.4955905818008999
+INFO:root:Starting run 5/5
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.2982777832933883
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -0.9164998270403492
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.2479233014083677
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.4243771329857526
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.5744619768330315
+INFO:root:Best model saved to models/smdp_run_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.0318790858950548
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -0.627073327812334
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -0.8950058397478889
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.200310774657232
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.3809201163705551
+INFO:root:Best model saved to models/intraoptions_run_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -2.152760115655052
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.1827701122693175
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.6338623694436287
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.3700558669593847
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.7599782316962425
+INFO:root:Best model saved to models/smdp_run_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.3031047784896201
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.34858515989322
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.7550083387371402
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.034287817899557
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -0.5038608213510111
+INFO:root:Best model saved to models/intraoptions_run_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.7083674050539033
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.8388184427314562
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.065566770140222
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.0649099055551539
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.2972847839316415
+INFO:root:Best model saved to models/smdp_run_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -0.7590722767543966
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.059952223419575
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -0.9352438060314253
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.0883695177999406
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.074884438940404
+INFO:root:Best model saved to models/intraoptions_run_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.8438111999373692
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.17671968862506
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.2129104559687094
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.456196510224774
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -0.9696564079432044
+INFO:root:Best model saved to models/smdp_run_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -0.6555129615707899
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -0.9751323221928674
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.3486140128026767
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.2357954355610032
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.056339166077287
+INFO:root:Best model saved to models/intraoptions_run_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -0.702389163171888
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -2.0562311111543856
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -1.4405215882867517
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.437170183176284
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.7175371066704077
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.113615925710707
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.2512279154349535
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -0.6449997575222831
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.4427385472710994
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.2280134489592973
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -1.3140164844917979
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.6647538845644063
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -0.7364621091487435
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -0.9710485848229811
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -1.4510123647510063
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -0.8777778310511144
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -0.31075329985814637
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -0.027975368562194944
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 0.010159418630066213
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -0.31560237390514
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -0.3735355572181063
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -1.4298012813323835
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): -0.6179427983020351
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -1.1691408698119226
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): -0.9462566023772802
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): -0.19501060815706445
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): -0.8069438463083225
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 0.17709951171931362
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): -0.2181831343426814
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 0.05537742287636689
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.7367743038611945
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.932083639768659
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.981815375676122
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.386602447491049
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 8.103647071814926
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/smdp_rewards.csv
+INFO:root:Results saved to results/smdp_rewards.csv and results/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Starting run 2/5
+INFO:root:Starting run 3/5
+INFO:root:Starting run 4/5
+INFO:root:Starting run 5/5
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.734010463583586
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.601576911583585
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.9016621513522445
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 8.073111273907463
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.933742483722391
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Starting run 2/5
+INFO:root:Starting run 3/5
+INFO:root:Starting run 4/5
+INFO:root:Starting run 5/5
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/intraoptions_rewards.csv
+INFO:root:Results saved to results/intraoptions_rewards.csv and results/intraoptions_rewards_plot.png
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.7262846077223895
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.87669860772239
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 8.15675983976866
+INFO:root:Starting run 4/5
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.838869375676122
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 6.713673823167172
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.797496871814927
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 8.12908060772239
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 8.085776303861193
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.46
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.608
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.786
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.816
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.714
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/rewards/intraoptions_rewards.csv
+INFO:root:Results saved to results/plots/intraoptions_rewards_plot.png and results/rewards/intraoptions_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 8.088953535907464
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.715574143629854
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.7231813756761225
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.717722607722391
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.865293839768659
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.714021375676122
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 8.101867375676122
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.734189839768658
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 6.757248751352245
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.707097535907463
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.46547644749105
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 8.08680260772239
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.729113679537319
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.495472143629854
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.746480447491049
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.982922639768658
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.754975279768659
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 8.100570871814927
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.769845375676121
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 8.195544303861196
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.795827983398513
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.78394060772239
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.636271375676122
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.935956143629854
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.780611839768658
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.85
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.906
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.598
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.622
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.754
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/rewards/intraoptions_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 8.005403071814927
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.758466911583586
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.856343839768659
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.796967839768659
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.718328143629854
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.853818911583585
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.915382447491049
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.516725679537318
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.960382607722392
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.785149375676122
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.666
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.798
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.432
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.72
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.798
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/rewards/intraoptions_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.916238775676121
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.692093839768659
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.868070575676121
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.8197703436298545
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.763484975676121
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.842269375676122
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.944079071814927
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.711667071814927
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 8.006791071814925
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 8.179005375676121
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.572
+INFO:root:Starting run 2/5
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.747403679537317
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.689164303861196
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 8.023439375676121
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 8.290936303861196
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.781205679537317
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.85060060772239
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.852236511583586
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 8.059936367953732
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 8.056415071814927
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 6.552096207259708
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 8.052
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.66
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.564
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.806
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.968
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/rewards/intraoptions_rewards.csv
+INFO:root:Q-values grid saved to results/plots/intraoptions_q_values_grid.png
+INFO:root:Results saved to results/plots/intraoptions_rewards_plot.png and results/rewards/intraoptions_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.847976767953732
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.949414143629854
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.538151375676121
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.942659375676123
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.716177839768659
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.314
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.876
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.528
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.512
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.854
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/rewards/intraoptions_rewards.csv
+INFO:root:Q-values grid saved to results/plots/intraoptions_q_values_grid.png
+INFO:root:Results saved to results/plots/intraoptions_rewards_plot.png and results/rewards/intraoptions_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.86310060772239
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 8.015936303861196
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.991512143629854
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 8.049742303861194
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.8275438397686585
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Starting SMDP experiment
+INFO:root:Starting SMDP experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 8.129381135907462
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 8.007527531814926
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.788745247491048
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.727136571814927
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.75419700772239
+INFO:root:Best model saved to models/smdp_best.pkl
+INFO:root:Saved results to results/rewards/smdp_rewards.csv
+INFO:root:Q-values grid saved to results/plots/q_grid/smdp_q_values_grid.png
+INFO:root:Results saved to results/rewards/smdp_rewards.csv and results/plots/smdp_rewards_plot.png
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting Intra-Options experiment
+INFO:root:Starting run 1/5
+INFO:root:Run 1 completed. Average reward (last 10%): 7.604
+INFO:root:Starting run 2/5
+INFO:root:Run 2 completed. Average reward (last 10%): 7.764
+INFO:root:Starting run 3/5
+INFO:root:Run 3 completed. Average reward (last 10%): 7.878
+INFO:root:Starting run 4/5
+INFO:root:Run 4 completed. Average reward (last 10%): 7.62
+INFO:root:Starting run 5/5
+INFO:root:Run 5 completed. Average reward (last 10%): 7.594
+INFO:root:Best model saved to models/intraoptions_best.pkl
+INFO:root:Saved results to results/rewards/intraoptions_rewards.csv
+INFO:root:Q-values grid saved to results/plots/q_grid/intraoptions_q_values_grid.png
+INFO:root:Results saved to results/plots/intraoptions_rewards_plot.png and results/rewards/intraoptions_rewards.csv

@@ -1,0 +1,146 @@
+2025-05-01 12:23:00,266 - INFO - Starting SMDP experiment with alternate options
+2025-05-01 12:23:00,277 - INFO - Starting run 1/5
+2025-05-01 12:23:26,719 - INFO - Run 1 completed. Average reward (last 10%): -12.374975166433531
+2025-05-01 12:23:26,720 - INFO - Starting run 2/5
+2025-05-01 12:23:49,861 - INFO - Starting SMDP experiment with alternate options
+2025-05-01 12:23:49,873 - INFO - Starting run 1/5
+2025-05-01 12:24:16,543 - INFO - Run 1 completed. Average reward (last 10%): -12.550821017685093
+2025-05-01 12:24:16,544 - INFO - Starting run 2/5
+2025-05-01 12:24:42,616 - INFO - Run 2 completed. Average reward (last 10%): -12.438607791371806
+2025-05-01 12:24:42,616 - INFO - Starting run 3/5
+2025-05-01 12:25:09,236 - INFO - Run 3 completed. Average reward (last 10%): -12.492059829324932
+2025-05-01 12:25:09,237 - INFO - Starting run 4/5
+2025-05-01 12:25:35,943 - INFO - Run 4 completed. Average reward (last 10%): -12.633406037538073
+2025-05-01 12:25:35,944 - INFO - Starting run 5/5
+2025-05-01 12:26:02,669 - INFO - Run 5 completed. Average reward (last 10%): -12.279628995496347
+2025-05-01 12:26:02,672 - INFO - Best model saved to models/alt_smdp_best.pkl
+2025-05-01 12:26:02,699 - INFO - Saved results to results/alt_smdp_rewards.pkl
+2025-05-01 12:26:03,412 - INFO - Results saved to results/alt_smdp_rewards.pkl and results/alt_smdp_rewards.png
+2025-05-01 12:26:03,412 - INFO - Starting Intra-Options experiment with alternate options
+2025-05-01 12:26:03,470 - INFO - Starting run 1/5
+2025-05-01 12:26:27,302 - INFO - Run 1 completed. Average reward (last 10%): -2.9361711920179885
+2025-05-01 12:26:27,302 - INFO - Starting run 2/5
+2025-05-01 12:26:50,080 - INFO - Run 2 completed. Average reward (last 10%): -2.3408111515665455
+2025-05-01 12:26:50,080 - INFO - Starting run 3/5
+2025-05-01 12:27:14,872 - INFO - Run 3 completed. Average reward (last 10%): -3.3714998940907837
+2025-05-01 12:27:14,872 - INFO - Starting run 4/5
+2025-05-01 12:27:38,791 - INFO - Run 4 completed. Average reward (last 10%): -3.0715240692024417
+2025-05-01 12:27:38,791 - INFO - Starting run 5/5
+2025-05-01 12:28:02,338 - INFO - Run 5 completed. Average reward (last 10%): -3.1506083988127775
+2025-05-01 12:28:02,340 - INFO - Best model saved to models/alt_intraoptions_best.pkl
+2025-05-01 12:28:02,358 - INFO - Saved results to results/alt_intraoptions_rewards.pkl
+2025-05-01 12:28:02,813 - INFO - Results saved to results/alt_intraoptions_rewards.pkl and results/alt_intraoptions_rewards.png
+2025-05-01 12:41:14,605 - INFO - Starting SMDP experiment with alternate options
+2025-05-01 12:41:14,612 - INFO - Starting run 1/5
+2025-05-01 12:41:41,052 - INFO - Run 1 completed. Average reward (last 10%): -12.358572431164637
+2025-05-01 12:41:41,053 - INFO - Starting run 2/5
+2025-05-01 12:42:08,297 - INFO - Run 2 completed. Average reward (last 10%): -12.65280435475375
+2025-05-01 12:42:08,298 - INFO - Starting run 3/5
+2025-05-01 12:42:34,892 - INFO - Run 3 completed. Average reward (last 10%): -12.210486942841316
+2025-05-01 12:42:34,893 - INFO - Starting run 4/5
+2025-05-01 12:43:01,703 - INFO - Run 4 completed. Average reward (last 10%): -12.315553824549466
+2025-05-01 12:43:01,704 - INFO - Starting run 5/5
+2025-05-01 12:43:28,496 - INFO - Run 5 completed. Average reward (last 10%): -12.336857738197235
+2025-05-01 12:43:28,498 - INFO - Best model saved to models/alt_smdp_best.pkl
+2025-05-01 12:43:28,523 - INFO - Saved results to results/alt_smdp_rewards.csv
+2025-05-01 12:43:29,175 - INFO - Results saved to results/alt_smdp_rewards.csv and results/alt_smdp_rewards.png
+2025-05-01 12:43:29,175 - INFO - Starting Intra-Options experiment with alternate options
+2025-05-01 12:43:29,212 - INFO - Starting run 1/5
+2025-05-01 12:43:53,380 - INFO - Run 1 completed. Average reward (last 10%): -3.1218450935980204
+2025-05-01 12:43:53,381 - INFO - Starting run 2/5
+2025-05-01 12:44:17,433 - INFO - Run 2 completed. Average reward (last 10%): -2.8336214735597185
+2025-05-01 12:44:17,434 - INFO - Starting run 3/5
+2025-05-01 12:44:41,273 - INFO - Run 3 completed. Average reward (last 10%): -3.2876472237292065
+2025-05-01 12:44:41,273 - INFO - Starting run 4/5
+2025-05-01 12:45:05,382 - INFO - Run 4 completed. Average reward (last 10%): -2.7391997061650337
+2025-05-01 12:45:05,382 - INFO - Starting run 5/5
+2025-05-01 12:45:29,233 - INFO - Run 5 completed. Average reward (last 10%): -2.946771393300697
+2025-05-01 12:45:29,234 - INFO - Best model saved to models/alt_intraoptions_best.pkl
+2025-05-01 12:45:29,253 - INFO - Saved results to results/alt_intraoptions_rewards.csv
+2025-05-01 12:45:29,692 - INFO - Results saved to results/alt_intraoptions_rewards.csv and results/alt_intraoptions_rewards.png
+2025-05-02 00:41:14,572 - INFO - Starting SMDP experiment with alternate options
+2025-05-02 00:41:14,926 - INFO - Starting run 1/5
+2025-05-02 00:41:17,605 - INFO - Run 1 completed. Average reward (last 10%): 7.836315535907462
+2025-05-02 00:41:17,605 - INFO - Starting run 2/5
+2025-05-02 00:41:20,281 - INFO - Run 2 completed. Average reward (last 10%): 7.641811839768658
+2025-05-02 00:41:20,281 - INFO - Starting run 3/5
+2025-05-02 00:41:22,945 - INFO - Run 3 completed. Average reward (last 10%): 7.82536460772239
+2025-05-02 00:41:22,945 - INFO - Starting run 4/5
+2025-05-02 00:41:25,545 - INFO - Run 4 completed. Average reward (last 10%): 7.9496750718149265
+2025-05-02 00:41:25,545 - INFO - Starting run 5/5
+2025-05-02 00:41:28,221 - INFO - Run 5 completed. Average reward (last 10%): 7.906734303861194
+2025-05-02 00:41:28,223 - INFO - Best model saved to models/alt_smdp_best.pkl
+2025-05-02 00:41:28,240 - INFO - Saved results to results/alt_smdp_rewards.csv
+2025-05-02 00:41:28,854 - INFO - Results saved to results/alt_smdp_rewards.csv and results/alt_smdp_rewards.png
+2025-05-02 00:41:28,854 - INFO - Starting Intra-Options experiment with alternate options
+2025-05-02 00:41:29,220 - INFO - Starting run 1/5
+2025-05-02 00:41:31,252 - INFO - Run 1 completed. Average reward (last 10%): 7.508
+2025-05-02 00:41:31,252 - INFO - Starting run 2/5
+2025-05-02 00:41:33,285 - INFO - Run 2 completed. Average reward (last 10%): 7.916
+2025-05-02 00:41:33,285 - INFO - Starting run 3/5
+2025-05-02 00:41:35,285 - INFO - Run 3 completed. Average reward (last 10%): 7.802
+2025-05-02 00:41:35,285 - INFO - Starting run 4/5
+2025-05-02 00:41:37,301 - INFO - Run 4 completed. Average reward (last 10%): 7.762
+2025-05-02 00:41:37,301 - INFO - Starting run 5/5
+2025-05-02 00:41:39,352 - INFO - Run 5 completed. Average reward (last 10%): 7.44
+2025-05-02 00:41:39,353 - INFO - Best model saved to models/alt_intraoptions_best.pkl
+2025-05-02 00:41:39,361 - INFO - Saved results to results/rewards/alt_intraoptions_rewards.csv
+2025-05-02 00:41:39,786 - INFO - Results saved to results/rewards/alt_intraoptions_rewards.csv and results/plots/alt_intraoptions_rewards.png
+2025-05-02 00:43:47,724 - INFO - Starting SMDP experiment with alternate options
+2025-05-02 00:43:48,096 - INFO - Starting run 1/5
+2025-05-02 00:43:50,741 - INFO - Run 1 completed. Average reward (last 10%): 8.002064271814927
+2025-05-02 00:43:50,741 - INFO - Starting run 2/5
+2025-05-02 00:43:53,355 - INFO - Run 2 completed. Average reward (last 10%): 7.95997640772239
+2025-05-02 00:43:53,355 - INFO - Starting run 3/5
+2025-05-02 00:43:55,994 - INFO - Run 3 completed. Average reward (last 10%): 7.925938071814927
+2025-05-02 00:43:55,994 - INFO - Starting run 4/5
+2025-05-02 00:43:58,622 - INFO - Run 4 completed. Average reward (last 10%): 7.964859955907463
+2025-05-02 00:43:58,622 - INFO - Starting run 5/5
+2025-05-02 00:44:01,331 - INFO - Run 5 completed. Average reward (last 10%): 7.577011807722391
+2025-05-02 00:44:01,332 - INFO - Best model saved to models/alt_smdp_best.pkl
+2025-05-02 00:44:01,352 - INFO - Saved results to results/rewards/alt_smdp_rewards.csv
+2025-05-02 00:44:01,974 - INFO - Results saved to results/rewards/alt_smdp_rewards.csv and results/plots/alt_smdp_rewards.png
+2025-05-02 00:44:01,974 - INFO - Starting Intra-Options experiment with alternate options
+2025-05-02 00:44:02,345 - INFO - Starting run 1/5
+2025-05-02 00:44:04,398 - INFO - Run 1 completed. Average reward (last 10%): 7.982
+2025-05-02 00:44:04,398 - INFO - Starting run 2/5
+2025-05-02 00:44:06,464 - INFO - Run 2 completed. Average reward (last 10%): 7.866
+2025-05-02 00:44:06,464 - INFO - Starting run 3/5
+2025-05-02 00:44:08,518 - INFO - Run 3 completed. Average reward (last 10%): 7.526
+2025-05-02 00:44:08,518 - INFO - Starting run 4/5
+2025-05-02 00:44:10,574 - INFO - Run 4 completed. Average reward (last 10%): 7.856
+2025-05-02 00:44:10,574 - INFO - Starting run 5/5
+2025-05-02 00:44:12,613 - INFO - Run 5 completed. Average reward (last 10%): 7.648
+2025-05-02 00:44:12,614 - INFO - Best model saved to models/alt_intraoptions_best.pkl
+2025-05-02 00:44:12,622 - INFO - Saved results to results/rewards/alt_intraoptions_rewards.csv
+2025-05-02 00:44:13,052 - INFO - Results saved to results/rewards/alt_intraoptions_rewards.csv and results/plots/alt_intraoptions_rewards.png
+2025-05-02 15:20:36,229 - INFO - Starting SMDP experiment with alternate options
+2025-05-02 15:20:36,608 - INFO - Starting run 1/5
+2025-05-02 15:20:39,251 - INFO - Run 1 completed. Average reward (last 10%): 7.941994303861194
+2025-05-02 15:20:39,251 - INFO - Starting run 2/5
+2025-05-02 15:20:41,898 - INFO - Run 2 completed. Average reward (last 10%): 7.676644303861196
+2025-05-02 15:20:41,898 - INFO - Starting run 3/5
+2025-05-02 15:20:44,536 - INFO - Run 3 completed. Average reward (last 10%): 8.053252303861195
+2025-05-02 15:20:44,536 - INFO - Starting run 4/5
+2025-05-02 15:20:47,218 - INFO - Run 4 completed. Average reward (last 10%): 8.115711071814927
+2025-05-02 15:20:47,218 - INFO - Starting run 5/5
+2025-05-02 15:20:49,862 - INFO - Run 5 completed. Average reward (last 10%): 7.725543839768659
+2025-05-02 15:20:49,863 - INFO - Best model saved to models/alt_smdp_best.pkl
+2025-05-02 15:21:18,904 - INFO - Q-values grid saved to results/plots/q_grid/alt_smdp_q_values_grid.png
+2025-05-02 15:21:18,944 - INFO - Saved results to results/rewards/alt_smdp_rewards.csv
+2025-05-02 15:21:19,406 - INFO - Results saved to results/rewards/alt_smdp_rewards.csv and results/plots/alt_smdp_rewards.png
+2025-05-02 15:21:19,406 - INFO - Starting Intra-Options experiment with alternate options
+2025-05-02 15:21:19,743 - INFO - Starting run 1/5
+2025-05-02 15:21:21,781 - INFO - Run 1 completed. Average reward (last 10%): 7.526
+2025-05-02 15:21:21,781 - INFO - Starting run 2/5
+2025-05-02 15:21:23,851 - INFO - Run 2 completed. Average reward (last 10%): 7.532
+2025-05-02 15:21:23,851 - INFO - Starting run 3/5
+2025-05-02 15:21:25,895 - INFO - Run 3 completed. Average reward (last 10%): 7.404
+2025-05-02 15:21:25,895 - INFO - Starting run 4/5
+2025-05-02 15:21:27,924 - INFO - Run 4 completed. Average reward (last 10%): 7.952
+2025-05-02 15:21:27,924 - INFO - Starting run 5/5
+2025-05-02 15:21:29,954 - INFO - Run 5 completed. Average reward (last 10%): 8.026
+2025-05-02 15:21:29,955 - INFO - Best model saved to models/alt_intraoptions_best.pkl
+2025-05-02 15:21:59,305 - INFO - Q-values grid saved to results/plots/q_grid/alt_intraoptions_q_values_grid.png
+2025-05-02 15:21:59,316 - INFO - Saved results to results/rewards/alt_intraoptions_rewards.csv
+2025-05-02 15:21:59,799 - INFO - Results saved to results/rewards/alt_intraoptions_rewards.csv and results/plots/alt_intraoptions_rewards.png
