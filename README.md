@@ -1,5 +1,20 @@
 # Reinforcement Learning - Taxi Environment with SMDP and Intra-Options
 
+## Contributions
+
+- Aswin Balamurugan (ch20b018)
+  - Implemented SMDP Q-Learning (run_smdp())
+  - Developed alternate boundary options (run_alt_smdp())
+  - Analyzed SMDP performance and wrote report sections
+- Sanjith Balamurugan (mm20b055)
+  - Implemented Intra-Option Q-Learning (run_intraoptions())
+  - Developed alternate boundary options (run_alt_intraoptions())
+  - Analyzed Intra-Option performance and wrote report sections
+- Shared Contributions:
+  - Compared SMDP vs Intra-Option performance
+  - Code review and debugging
+  - Submission preparation
+
 This repository contains implementations of **Semi-Markov Decision Processes (SMDP)** and **Intra-Option Learning** in the Taxi-v3 environment from OpenAI Gym. The project explores how different options (high-level actions) can improve the learning efficiency and performance of reinforcement learning agents.
 
 ## Features
@@ -113,9 +128,9 @@ After training, the results (rewards, plots, etc.) are saved in the `results/` d
 
 - **Q-Values and Policies**: Visualizes the learned Q-values and policies for different states.
 
-| **SMDP**                                               | **Intra-Options**                                               |
-| ------------------------------------------------------ | --------------------------------------------------------------- |
-| ![smdp-Q-values](results/plots/smdp_q_values_grid.png) | ![intra-Q-values](results/plots/intraoptions_q_values_grid.png) |
+| **SMDP**                                                      | **Intra-Options**                                                      |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ![smdp-Q-values](results/plots/q_grid/smdp_q_values_grid.png) | ![intra-Q-values](results/plots/q_grid/intraoptions_q_values_grid.png) |
 
 ## Logging
 
